@@ -11,7 +11,7 @@
     <h1
       class="pt-4 pb-8 bg-gradient-to-br dark:from-white from-black via-[#707070] to-[#ffffff] bg-clip-text text-center text-4xl font-medium tracking-tight text-transparent md:text-7xl"
     >
-      Postgres on Vercel
+      Postgres on Vercell
     </h1>
     <Table :users="data?.users" :duration="data?.duration" />
     <div
